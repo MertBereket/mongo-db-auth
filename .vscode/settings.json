@@ -1,0 +1,12 @@
+{
+  "rest-client.environmentVariables": {
+    "local": {
+      "baseUrl": "http://localhost:5000",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VyVHlwZU5hbWUiOiJSb290IiwiaWF0IjoxNjIyMDY5NDYwLCJleHAiOjE2MjI2NzQyNjB9.UN4Y3ycr-L203s_RwO13qr0FtIfpi2eQZFgOsqcdRfc",
+    },
+    "stage": {
+      "baseUrl": "https://mobiles-app-api.herokuapp.com/",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VyVHlwZU5hbWUiOiJSb290IiwiaWF0IjoxNjIxMTAwNjkxLCJleHAiOjE2MjE3MDU0OTF9.dG_DjQPhLc1ChqJWTPyFdK34XVM35O2je2sv9E0lTIo"
+    }
+  }
+}
